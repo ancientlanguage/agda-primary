@@ -1,0 +1,3 @@
+[submodule "modules/agda-primary-type"]
+	path = modules/agda-primary-type
+	url = https://github.com/ancientlanguage/agda-primary-type.git
