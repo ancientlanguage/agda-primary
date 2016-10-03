@@ -1,0 +1,4 @@
+name: primary
+include:
+  .
+  ../modules/agda-primary-type/src
